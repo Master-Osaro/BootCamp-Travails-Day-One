@@ -1,4 +1,4 @@
-let isPrime = (N)=> // This fuction confirms if numbers within a given range are prime numbers
+let isPrime = (N)=> // This fuction confirms if numbers within a given range are prime numbers. Checks for the prime numbers
 {
   for (let c = 2; c <= Math.sqrt(N); c++)
     if (N % c === 0 ) {
