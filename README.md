@@ -1,1 +1,1 @@
-# BootcampDAY1/ SELF-LEARNING DAY 0
+# My Travails at Andela's bootcamp. First day
